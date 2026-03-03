@@ -1,4 +1,4 @@
-# C2025
+# C2026
 
 [課程資訊](index.md)
 
@@ -16,6 +16,7 @@
 
 [歷年網站]()
 
+  * [C2025](https://sprout.tw/c2025/#!index.md)
   * [C2024](https://sprout.tw/c2024/#!index.md)
   * [C2023](https://sprout.tw/c2023/#!index.md)
   * [C2022](https://sprout.tw/c2022/#!index.md)
