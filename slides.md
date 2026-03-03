@@ -64,10 +64,10 @@
 |結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable] | [北區影片][tp-struct-recording] |
 |大作業一| | [講解影片][project-1-video] |
 
-[tp-struct]: https://drive.google.com/file/d/1zUPFGywaRIFiyZ69rsiQtlJIfApCYkt2/view?usp=drive_link
-[tp-global-variable]: https://drive.google.com/file/d/1RemI5y7IxGgzDpB2wnlZdSvZTcPWNMal/view?usp=drive_link
-[tp-struct-recording]: https://youtube.com/live/5gAWfXs2dvI
-[project-1-video]: https://youtube.com/live/bNmvEtJyuCc
+[tp-struct]: 
+[tp-global-variable]:
+[tp-struct-recording]:
+[project-1-video]: 
 
 ## 第七週 4/18
 
@@ -76,10 +76,10 @@
 |標頭檔與巨集| [Week7-1 標頭檔、巨集與隨機][tp-headerfile&macro] | [影片][tp-headerfile&macro-recording]|
 |遞迴| [Week7-2 遞迴][tp-recursion] | [影片][tp-recursion-recording]|
 
-[tp-headerfile&macro]: https://drive.google.com/file/d/1nVQ0ivsWDjN73bGeI0VMYH5JdKM6r4dW/view?usp=drive_link
-[tp-headerfile&macro-recording]: https://youtube.com/live/zKQSOkca2gk
-[tp-recursion]: https://drive.google.com/file/d/1NLmzjxkY_I8BLhvyXrM6BZamfEKrWtYP/view?usp=drive_link
-[tp-recursion-recording]: https://www.youtube.com/watch?v=IYPtqCiziNo
+[tp-headerfile&macro]: 
+[tp-headerfile&macro-recording]: 
+[tp-recursion]: 
+[tp-recursion-recording]: 
 
 ## 第八週 4/25
 
@@ -94,8 +94,8 @@
 | 題解 | | |
 | 變數生命週期、轉型與雜談 | [Week9-2 變數生命週期、轉型與雜談][tp-memory] | [影片][tp-memory-recording]|
 
-[tp-memory]: https://slides.com/rain0130/memory_bits_others_sprout_c2025
-[tp-memory-recording]: https://www.youtube.com/live/ajQy-70R-CM?feature=shared
+[tp-memory]: 
+[tp-memory-recording]: 
 
 ## 第十週 5/9
 
@@ -107,7 +107,7 @@
 
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-| 指標 | [Week11 Pointer] | |
+| 指標 |  | |
 
 
 
