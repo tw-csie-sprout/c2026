@@ -9,7 +9,7 @@
 | 基礎IO、變數、運算子 | [Week1-2 基礎IO、變數、運算子][tp-variable] | [影片][tp-variable-recording] |
 
 [tp-intro]: 
-[tp-helloworld]:
+[tp-helloworld]: https://drive.google.com/file/d/1idfwgkA-x9_q7MSwvQC7UV0aaCdtjwXZ/view
 [tp-variable]: https://drive.google.com/file/d/1j6-fVrDObJVaH0Y7ud-EK9ZAN9CM2FQf/view?usp=sharing
 [tp-intro-recording]: 
 [tp-helloworld-recording]: 
@@ -136,5 +136,6 @@
 ## 第十七週 6/27
 
 ## 第十八週 7/4
+
 
 
