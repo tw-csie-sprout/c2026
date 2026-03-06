@@ -10,7 +10,7 @@
 
 [tp-intro]: 
 [tp-helloworld]:
-[tp-variable]: 
+[tp-variable]: https://drive.google.com/file/d/1j6-fVrDObJVaH0Y7ud-EK9ZAN9CM2FQf/view?usp=sharing
 [tp-intro-recording]: 
 [tp-helloworld-recording]: 
 [tp-variable-recording]: 
@@ -136,4 +136,5 @@
 ## 第十七週 6/27
 
 ## 第十八週 7/4
+
 
