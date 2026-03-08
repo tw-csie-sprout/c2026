@@ -13,7 +13,7 @@
 [tp-variable]: https://drive.google.com/file/d/1j6-fVrDObJVaH0Y7ud-EK9ZAN9CM2FQf/view?usp=sharing
 [tp-intro-recording]: 
 [tp-helloworld-recording]: 
-[tp-variable-recording]: 
+[tp-variable-recording]: https://youtu.be/vbqMUL8OzgY
 
 ## 第二週 3/14
 
@@ -136,6 +136,7 @@
 ## 第十七週 6/27
 
 ## 第十八週 7/4
+
 
 
 
