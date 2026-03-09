@@ -12,7 +12,7 @@
 [tp-helloworld]: https://drive.google.com/file/d/1idfwgkA-x9_q7MSwvQC7UV0aaCdtjwXZ/view
 [tp-variable]: https://drive.google.com/file/d/1j6-fVrDObJVaH0Y7ud-EK9ZAN9CM2FQf/view?usp=sharing
 [tp-intro-recording]: 
-[tp-helloworld-recording]: 
+[tp-helloworld-recording]: https://www.youtube.com/watch?v=5Btmb2IyfK4
 [tp-variable-recording]: https://youtu.be/vbqMUL8OzgY
 
 ## 第二週 3/14
@@ -136,6 +136,7 @@
 ## 第十七週 6/27
 
 ## 第十八週 7/4
+
 
 
 
