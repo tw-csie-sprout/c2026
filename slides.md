@@ -11,7 +11,7 @@
 [tp-intro]: https://slides.com/illumeow/sprout-template-b8c69d
 [tp-helloworld]: https://drive.google.com/file/d/1idfwgkA-x9_q7MSwvQC7UV0aaCdtjwXZ/view
 [tp-variable]: https://drive.google.com/file/d/1j6-fVrDObJVaH0Y7ud-EK9ZAN9CM2FQf/view?usp=sharing
-[tp-intro-recording]: 
+[tp-intro-recording]: https://youtu.be/frpykiWjpw4
 [tp-helloworld-recording]: https://www.youtube.com/watch?v=5Btmb2IyfK4
 [tp-variable-recording]: https://youtu.be/vbqMUL8OzgY
 
@@ -136,6 +136,7 @@
 ## 第十七週 6/27
 
 ## 第十八週 7/4
+
 
 
 
