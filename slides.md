@@ -23,7 +23,7 @@
 | 迴圈 | [Week2-2 迴圈][tp-loop] | [影片][tp-loop-recording] |
 
 [tp-conditionals]: https://slides.com/jerryleeeee/c_taipei_2026_conditionals
-[tp-loop]:
+[tp-loop]: https://slides.com/rain0130/loop_sprout_c2026
 [tp-conditionals-recording]: 
 [tp-loop-recording]: 
 
