@@ -5,7 +5,7 @@
 | 日期 | 週次 | 題單 (Contest) 連結 | 上課練習 | 勾選作業 | 其他習題 | 檢討 |
 | :--: | :--: | :------: | :------: | :------: | :------: |  :--------- |
 | 0307 | 01 | [第一週連結](https://tioj.sprout.tw/contests/43) | 259 | 257 | 515 |  |
-| 0314 | 02 |  |  |  |  |  |
+| 0314 | 02 | [第二週連結](https://tioj.sprout.tw/contests/46) | 453 660 189 | 398 592 | [a003](https://zerojudge.tw/ShowProblem?problemid=a003) [a004](https://zerojudge.tw/ShowProblem?problemid=a004) |  |
 | 0321 | 03 |  |  |  |  |  |
 | 0328 | 04 |  |  |  |  |  |
 | 0404 | 05 | 兒童清明連假 |  |  |  |  |
