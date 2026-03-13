@@ -22,7 +22,7 @@
 | 條件判斷 | [Week2-1 條件判斷][tp-conditionals] | [影片][tp-conditionals-recording] |
 | 迴圈 | [Week2-2 迴圈][tp-loop] | [影片][tp-loop-recording] |
 
-[tp-conditionals]: 
+[tp-conditionals]: https://slides.com/jerryleeeee/c_taipei_2026_conditionals
 [tp-loop]:
 [tp-conditionals-recording]: 
 [tp-loop-recording]: 
