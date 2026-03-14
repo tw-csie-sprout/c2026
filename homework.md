@@ -4,7 +4,7 @@
 
 | 日期 | 週次 | 題單 (Contest) 連結 | 上課練習 | 勾選作業 | 其他習題 | 檢討 |
 | :--: | :--: | :------: | :------: | :------: | :------: |  :--------- |
-| 0307 | 01 | [第一週連結](https://tioj.sprout.tw/contests/43) | 259 | 257 | 515 |  |
+| 0307 | 01 | [第一週連結](https://tioj.sprout.tw/contests/43) | 259 | 257 | 515 | [題解連結](https://hackmd.io/@eeeeee/S1dx9Dec-g) <br> [錄影](https://www.youtube.com/watch?v=3-j4OIxUszQ)|
 | 0314 | 02 | [第二週連結](https://tioj.sprout.tw/contests/46) | 453 660 189 564 | 398 592 658 | [a003](https://zerojudge.tw/ShowProblem?problemid=a003) [a004](https://zerojudge.tw/ShowProblem?problemid=a004) 187 428 681 |  |
 | 0321 | 03 |  |  |  |  |  |
 | 0328 | 04 |  |  |  |  |  |
