@@ -24,7 +24,7 @@
 
 [tp-conditionals]: https://slides.com/jerryleeeee/c_taipei_2026_conditionals
 [tp-loop]: https://slides.com/rain0130/loop_sprout_c2026
-[tp-conditionals-recording]: 
+[tp-conditionals-recording]: https://youtu.be/H6Ha2Kf2xxY
 [tp-loop-recording]: 
 
 ## 第三週 3/21
