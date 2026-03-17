@@ -35,7 +35,7 @@
 | 函數 | [Week3-2 函數][tp-function] | [影片][tp-function-recording] |
 
 [tp-1DArray-and-C-Style-String]:
-[tp-function]: 
+[tp-function]: https://drive.google.com/file/d/18q6Gw_yuB94vhsqIrtTRBHmnBfYZ03V-/view?usp=sharing
 [tp-1DArray-and-C-Style-String-recording]: 
 [tp-function-recording]:
 
