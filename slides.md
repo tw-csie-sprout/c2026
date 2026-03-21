@@ -34,7 +34,7 @@
 | 一維陣列 | [Week3-1 一維陣列][tp-1DArray-and-C-Style-String] | [影片][tp-1DArray-and-C-Style-String-recording] |
 | 函數 | [Week3-2 函數][tp-function] | [影片][tp-function-recording] |
 
-[tp-1DArray-and-C-Style-String]:
+[tp-1DArray-and-C-Style-String]: https://drive.google.com/file/d/1K6FT1zd_rWFop6_w01QOAlHQmI2H5nMb/view?usp=sharing
 [tp-function]: https://drive.google.com/file/d/18q6Gw_yuB94vhsqIrtTRBHmnBfYZ03V-/view?usp=drive_link
 [tp-1DArray-and-C-Style-String-recording]: 
 [tp-function-recording]:
