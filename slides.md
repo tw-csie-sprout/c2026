@@ -36,8 +36,8 @@
 
 [tp-1DArray-and-C-Style-String]: https://drive.google.com/file/d/1K6FT1zd_rWFop6_w01QOAlHQmI2H5nMb/view?usp=sharing
 [tp-function]: https://drive.google.com/file/d/18q6Gw_yuB94vhsqIrtTRBHmnBfYZ03V-/view?usp=drive_link
-[tp-1DArray-and-C-Style-String-recording]: 
-[tp-function-recording]:
+[tp-1DArray-and-C-Style-String-recording]: https://youtu.be/ee3HCukXZoM?si=zJP-hFXsf4mu01sO
+[tp-function-recording]: https://youtu.be/tzJ75DfLzpo?si=sgaZUF-e60-CetKs
 
 ## 第四週 3/28
 
