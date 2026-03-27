@@ -46,7 +46,7 @@
 |多維陣列| [Week4-1 多維陣列][tp-nd-array] | [影片][tp-nd-array-recording] |
 |C++ 字串| [Week4-2 C++ 字串][tp-c++-string]| [影片][tp-c++-string-recording] |
 
-[tp-nd-array]: 
+[tp-nd-array]: https://drive.google.com/file/d/1WZEI3QLbNKy7ozmMJuw4dLSYjRh_4YSF/view?usp=sharing
 [tp-c++-string]: 
 [tp-nd-array-recording]: 
 [tp-c++-string-recording]: 
