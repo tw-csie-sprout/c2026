@@ -47,7 +47,7 @@
 |C++ 字串| [Week4-2 C++ 字串][tp-c++-string]| [影片][tp-c++-string-recording] |
 
 [tp-nd-array]: https://drive.google.com/file/d/1WZEI3QLbNKy7ozmMJuw4dLSYjRh_4YSF/view?usp=sharing
-[tp-c++-string]: 
+[tp-c++-string]: https://drive.google.com/file/d/1zeNg_ATOe6in8AiHkRM8KwXO-Jf2j3VP/view
 [tp-nd-array-recording]: 
 [tp-c++-string-recording]: 
 
