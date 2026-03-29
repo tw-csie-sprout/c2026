@@ -49,7 +49,7 @@
 [tp-nd-array]: https://drive.google.com/file/d/1WZEI3QLbNKy7ozmMJuw4dLSYjRh_4YSF/view?usp=sharing
 [tp-c++-string]: https://drive.google.com/file/d/1zeNg_ATOe6in8AiHkRM8KwXO-Jf2j3VP/view
 [tp-nd-array-recording]: https://www.youtube.com/watch?v=P-d0Wh1GNkY
-[tp-c++-string-recording]: 
+[tp-c++-string-recording]: https://www.youtube.com/watch?v=fixdtnjN92o
 
 ## 第五週 4/4
 
