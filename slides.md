@@ -64,8 +64,8 @@
 |結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable] | [北區影片][tp-struct-recording] |
 |大作業一| | [講解影片][project-1-video] |
 
-[tp-struct]: 
-[tp-global-variable]:
+[tp-struct]: https://drive.google.com/file/d/1_8hCQibPDJEm9heIjZB9fZAawJnnR_EB/view?usp=sharing
+[tp-global-variable]: https://drive.google.com/file/d/1iH4ntFGOAahlCNvmlABbGzMnjKhsO1qo/view?usp=sharing
 [tp-struct-recording]:
 [project-1-video]: 
 
