@@ -67,7 +67,7 @@
 [tp-struct]: https://drive.google.com/file/d/1_8hCQibPDJEm9heIjZB9fZAawJnnR_EB/view?usp=sharing
 [tp-global-variable]: https://drive.google.com/file/d/1iH4ntFGOAahlCNvmlABbGzMnjKhsO1qo/view?usp=sharing
 [tp-struct-recording]:
-[project-1-video]: 
+[project-1-video]: https://youtu.be/9f2-8CNCKU8
 
 ## 第七週 4/18
 
