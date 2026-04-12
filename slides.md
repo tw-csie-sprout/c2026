@@ -61,12 +61,12 @@
 
 | 主題         | 北區                                      | 影片 |
 | ------------ | ----------------------------------------- | ---- |
-|結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable] | [北區影片][tp-struct-recording] |
+|結構 (struct)|[Week6-1 Struct][tp-struct] <br> [Week6-1 全域變數][tp-global-variable] | [影片][tp-struct-recording] |
 |大作業一| | [講解影片][project-1-video] |
 
 [tp-struct]: https://drive.google.com/file/d/1_8hCQibPDJEm9heIjZB9fZAawJnnR_EB/view?usp=sharing
 [tp-global-variable]: https://drive.google.com/file/d/1iH4ntFGOAahlCNvmlABbGzMnjKhsO1qo/view?usp=sharing
-[tp-struct-recording]:
+[tp-struct-recording]: https://youtu.be/39Y6EI0DONo
 [project-1-video]: https://youtu.be/9f2-8CNCKU8
 
 ## 第七週 4/18
