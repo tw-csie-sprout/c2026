@@ -76,7 +76,7 @@
 |標頭檔與巨集| [Week7-1 標頭檔、巨集與隨機][tp-headerfile&macro] | [影片][tp-headerfile&macro-recording]|
 |遞迴| [Week7-2 遞迴][tp-recursion] | [影片][tp-recursion-recording]|
 
-[tp-headerfile&macro]: 
+[tp-headerfile&macro]: https://drive.google.com/file/d/1GDd_BQmWboz-7Yw3uMw1NbAXBgvQikUm/view?usp=drive_link
 [tp-headerfile&macro-recording]: 
 [tp-recursion]: https://drive.google.com/file/d/1L788uAW4EbHYgYyYmjcnXcYm9mSUu_rV/view?usp=sharing
 [tp-recursion-recording]: 
