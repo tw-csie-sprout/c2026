@@ -10,7 +10,7 @@
 | 0328 | 04 | [第四週連結](https://tioj.sprout.tw/contests/50) | 617 588 388 | 582 1013 | 195 1038 656 565 | [題解連結](https://hackmd.io/jjVrV9JSTMyDxisyL69ZKg) <br>(錄影在上半堂) |
 | 0404 | 05 | 兒童清明連假 |  |  |  |  |
 | 0411 | 06 | [第六週連結](https://tioj.sprout.tw/contests/55) | 566 | 333 | 561 585 | [題解連結](https://hackmd.io/@wcwutw/BkQbhhchWe) |
-| 0418 | 07 |  |  |  |  |  |
+| 0418 | 07 | [第七週連結](https://tioj.sprout.tw/contests/59) | 319 | 441 1024 | 645 1025 140 |  |
 | 0425 | 08 | 階段考 |  |  |  |  |
 | 0502 | 09 |  |  |  |  |  |
 | 0509 | 10 |  |  |  |  |  |
