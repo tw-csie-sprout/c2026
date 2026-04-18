@@ -73,7 +73,7 @@
 
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-|標頭檔與巨集| [Week7-1 標頭檔、巨集與隨機][tp-headerfile&macro] | [影片][tp-headerfile&macro-recording]|
+|標頭檔與巨集| [Week7-1 標頭檔、巨集與隨機][tp-headerfile&macro] | [題解與行政事項](https://youtu.be/11AQ3HOFs4Y) <br> [影片][tp-headerfile&macro-recording]|
 |遞迴| [Week7-2 遞迴][tp-recursion] | [影片][tp-recursion-recording]|
 
 [tp-headerfile&macro]: https://drive.google.com/file/d/1GDd_BQmWboz-7Yw3uMw1NbAXBgvQikUm/view?usp=drive_link
