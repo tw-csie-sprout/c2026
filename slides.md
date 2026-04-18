@@ -77,7 +77,7 @@
 |遞迴| [Week7-2 遞迴][tp-recursion] | [影片][tp-recursion-recording]|
 
 [tp-headerfile&macro]: https://drive.google.com/file/d/1GDd_BQmWboz-7Yw3uMw1NbAXBgvQikUm/view?usp=drive_link
-[tp-headerfile&macro-recording]: 
+[tp-headerfile&macro-recording]: https://youtu.be/_rz3ss8p37I
 
 [tp-recursion]: https://drive.google.com/file/d/1L788uAW4EbHYgYyYmjcnXcYm9mSUu_rV/view?usp=sharing
 [tp-recursion-recording]: https://youtu.be/wmX-F4GJ0Zg
