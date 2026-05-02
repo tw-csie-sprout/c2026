@@ -95,7 +95,7 @@
 | 題解 | [題解連結](https://hackmd.io/ii8oWJfURFC7gc3oR3z7Eg) | |
 | 變數生命週期、轉型與雜談 | [Week9-2 變數生命週期、轉型與雜談][tp-memory] | [影片][tp-memory-recording]|
 
-[tp-memory]: 
+[tp-memory]: https://slides.com/rain0130/memory-bits-others-sprout-c2026
 [tp-memory-recording]: 
 
 ## 第十週 5/9
