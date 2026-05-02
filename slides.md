@@ -92,7 +92,7 @@
 
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-| 題解 | [題解連結](https://hackmd.io/ii8oWJfURFC7gc3oR3z7Eg) | |
+| 題解 | [題解連結](https://hackmd.io/ii8oWJfURFC7gc3oR3z7Eg) | [影片](https://youtu.be/yTlk4VXm5Wo) |
 | 變數生命週期、轉型與雜談 | [Week9-2 變數生命週期、轉型與雜談][tp-memory] | [影片][tp-memory-recording]|
 
 [tp-memory]: https://slides.com/rain0130/memory-bits-others-sprout-c2026
