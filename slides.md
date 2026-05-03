@@ -96,7 +96,7 @@
 | 變數生命週期、轉型與雜談 | [Week9-2 變數生命週期、轉型與雜談][tp-memory] | [影片][tp-memory-recording]|
 
 [tp-memory]: https://slides.com/rain0130/memory-bits-others-sprout-c2026
-[tp-memory-recording]: 
+[tp-memory-recording]: https://youtu.be/2xbRQltYOpY
 
 ## 第十週 5/9
 
