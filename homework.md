@@ -12,9 +12,9 @@
 | 0411 | 06 | [第六週連結](https://tioj.sprout.tw/contests/55) | 566 | 333 | 561 585 | [題解連結](https://hackmd.io/@wcwutw/BkQbhhchWe) <br> (錄影見課程講義) |
 | 0418 | 07 | [第七週連結](https://tioj.sprout.tw/contests/59) | 319 | 441 1024 | 645 1025 140 | [題解連結](https://hackmd.io/@eeeeee/r1yHe8Lpbl) <br> [錄影](https://youtu.be/68JKsDef9gs)|
 | 0425 | 08 | 階段考 |  |  |  | [題解連結](https://hackmd.io/ii8oWJfURFC7gc3oR3z7Eg) |
-| 0502 | 09 |  |  |  |  |  |
-| 0509 | 10 |  |  |  |  |  |
-| 0516 | 11 |  |  |  |  |  |
+| 0502 | 09 | 無作業 |  |  |  |  |
+| 0509 | 10 | 準備週 |  |  |  |  |
+| 0516 | 11 | [第十一週連結](https://tioj.sprout.tw/contests/63) |  |  |  |  |
 | 0523 | 12 |  |  |  |  |  |
 | 0530 | 13 |  |  |  |  |  |
 | 0606 | 14 |  |  |  |  |  |
