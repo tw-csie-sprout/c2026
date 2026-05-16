@@ -108,7 +108,7 @@
 
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-| 指標1 | [Week11-1 Pointer1](https://slides.com/rain0130/pointer-sprout-c2026) | |
+| 指標1 | [Week11-1 Pointer1](https://slides.com/rain0130/pointer-sprout-c2026) | [影片](https://youtu.be/jqBCDXeypEI) |
 | STL 容器 | [Week11-2 STL 容器](https://drive.google.com/file/d/1oYw-2XQLtRbI_WtzuvwEJ41RQjaLswv6/view?usp=sharing) | |
 
 
