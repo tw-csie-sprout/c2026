@@ -114,6 +114,9 @@
 
 ## 第十二週 5/23
 
+| 主題     | 北區            | 影片 |
+| -------- | --------------- | ---- |
+| class, enum | [Week12-1 class 與 enum](https://drive.google.com/file/d/13AszGwtH0ktCcLPbAT_BTEina2OvDCtZ/view) | |
 
 
 ## 第十三週 5/30
