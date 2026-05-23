@@ -116,7 +116,7 @@
 
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-| class, enum | [Week12-1 class 與 enum](https://drive.google.com/file/d/13AszGwtH0ktCcLPbAT_BTEina2OvDCtZ/view) | |
+| class, enum | [Week12-1 class 與 enum](https://drive.google.com/file/d/1GV72AcoXq5ilxFDir6qEAuZhLheomSf9/view) | |
 | 大作業二 - 1 | 請見大作業二頁面 | [影片](https://youtu.be/8GLQLR8nzK4)  |
 
 
