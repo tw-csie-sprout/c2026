@@ -121,7 +121,10 @@
 
 
 ## 第十三週 5/30
-
+| 主題     | 北區            | 影片 |
+| -------- | --------------- | ---- |
+| 指標 2 (new/delete) | [Week13-1 指標 2 (new/delete)] | [影片] |
+| STL function | [Week13-2 STL function](https://drive.google.com/file/d/1sRt452g9-jcL_zfTspvZheZ7mjl7rxJ_/view?usp=drive_link) | [影片]  |
 
 
 ## 第十四週 6/6
