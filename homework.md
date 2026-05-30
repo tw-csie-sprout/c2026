@@ -16,7 +16,7 @@
 | 0509 | 10 | 準備週 |  |  |  |  |
 | 0516 | 11 | [第十一週連結](https://tioj.sprout.tw/contests/63) | 35 1052 | 36 18 602 | 190 | [題解連結](https://hackmd.io/@jerry-lee-330/HJ58ySpJMl) <br> [錄影](https://youtu.be/IE4HBFpQIHo)|
 | 0523 | 12 | [第十二週連結](https://tioj.sprout.tw/contests/65) | 446 | 1047 | 609 |  |
-| 0530 | 13 |  |  |  |  |  |
+| 0530 | 13 | [第十三週連結](https://tioj.sprout.tw/contests/68) | 336 609 766 | 605 | 645 |  |
 | 0606 | 14 |  |  |  |  |  |
 | 0613 | 15 |  |  |  |  |  |
 | 0620 | 16 | 端午連假 |  |  |  |  |
