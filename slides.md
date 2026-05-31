@@ -124,7 +124,7 @@
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
 | 指標 2 (new/delete) | [Week13-1 指標 2 (new/delete)](https://slides.com/rain0130/pointer-sprout-c2026) | [影片（補錄）](https://youtu.be/FAk_ws10MaE) |
-| STL function | [Week13-2 STL function](https://drive.google.com/file/d/1sRt452g9-jcL_zfTspvZheZ7mjl7rxJ_/view?usp=drive_link) | [影片] (https://www.youtube.com/watch?v=LXmYgV8ERGE) |
+| STL function | [Week13-2 STL function](https://drive.google.com/file/d/1sRt452g9-jcL_zfTspvZheZ7mjl7rxJ_/view?usp=drive_link) | [影片](https://www.youtube.com/watch?v=LXmYgV8ERGE) |
 
 
 ## 第十四週 6/6
