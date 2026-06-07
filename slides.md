@@ -130,7 +130,7 @@
 ## 第十四週 6/6
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-| overload, template, sstream, fstream | [Week14-1 進階OOP & 輸入輸出流](https://drive.google.com/file/d/1tiMOFALQ-h0BrRiSVlvKqo5lM41yTuNF/view) |  |
+| overload, template, sstream, fstream | [Week14-1 進階OOP & 輸入輸出流](https://drive.google.com/file/d/1tiMOFALQ-h0BrRiSVlvKqo5lM41yTuNF/view) | [影片](https://www.youtube.com/watch?v=PCAOVXPvJU4) |
 | 大作業二-2 | [Week14-2 大作業二-2](https://drive.google.com/file/d/1f8Bvy1kEqqulVthGlvFGbbNw-gmHVuIQ/view?usp=sharing) | [影片](https://youtu.be/YNY80s8VaP0)  |
 
 
