@@ -138,7 +138,7 @@
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
 | sorting, 淺談複雜度 | [Week15-1 時間複雜度＆排序](https://drive.google.com/file/d/1rTRs_JWKeoQCxKC4aM9hrB9EHORZORM7/view?usp=sharing) |  |
-| 大作業二-3 | [Week15-2 大作業二-3](https://drive.google.com/file/d/1OiUqD0cTw8ctHGQnVdqtmO5BEmTSZKDl/view?usp=sharing) |  |
+| 大作業二-3 | [Week15-2 大作業二-3](https://drive.google.com/file/d/1OiUqD0cTw8ctHGQnVdqtmO5BEmTSZKDl/view?usp=sharing) | [影片](https://youtu.be/eKNbsLzAxeg)  |
 
 
 ## 第十六週 6/20
