@@ -150,7 +150,7 @@
 ## 第十七週 6/27
 | 主題     | 北區            | 影片 |
 | -------- | --------------- | ---- |
-| 回顧與展望-1 | [Week17-1 回顧與展望-1](https://slides.com/jerryleeeee/c_taipei_2026_review_and_outlook-f866ab)| [影片](https://youtu.be/P6F3FAj1_O0) |
+| 回顧與展望-1 | [Week17-1 回顧與展望-1](https://slides.com/jerryleeeee/c_taipei_2026_review_and_outlook-f866ab)| [影片]() |
 | 回顧與展望-2 | [Week17-2 回顧與展望-2](https://drive.google.com/file/d/1tQ4RGlak3oaq51yVW-eyH7gOqhBi8p5P/view?usp=sharing) | |
 ## 第十八週 7/4
 
